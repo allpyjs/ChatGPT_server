@@ -1,1 +1,1 @@
-# ChatGPT_server
+# ChadGPT
